@@ -30,7 +30,8 @@ class YourProfile:
         self.skills = [
             "Software Development",
             "Database Management",
-            "Problem Solving"
+            "Problem Solving",
+            "Web Development"
         ]
         self.languages = ["Python", "Java", "SQL", "HTML", "CSS", "JavaScript"]
         self.strengths = [

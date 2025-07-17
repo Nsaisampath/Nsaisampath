@@ -24,34 +24,35 @@
 <tr>
 <td width="60%">
 
+
 ```python
 class YourProfile:
-    def init(self):
-        self.name = "Naramsetti Sai Sampath"
-        self.role = "Aspiring Software Developer "
-        self.location = "Visakhapatnam, India 🇮🇳"
+    def __init__(self):
+        self.name = "👤 Naramsetti Sai Sampath"
+        self.role = "💻 Aspiring Software Developer"
+        self.location = "📍 Visakhapatnam, India 🇮🇳"
         self.education = {
-            "Current": "B.Tech in Information Technology @ MVGR College of Engineering",
-            "CGPA": 8.41,
-            "Intermediate": "Sri Chaitanya College - MPC - 96%",
-            "SSC": "Zilla Parishad High School - 96%"
+            "🎓 Current": "B.Tech in Information Technology @ MVGR College of Engineering",
+            "📊 CGPA": 8.41,
+            "🏫 Intermediate": "Sri Chaitanya College - MPC - 96%",
+            "🏫 SSC": "Zilla Parishad High School - 96%"
         }
         self.skills = [
-            "Software Development",
-            "Database Management",
-            "Problem Solving",
-            "Web Development"
+            "🛠️ Software Development",
+            "🗄️ Database Management",
+            "🧠 Problem Solving",
+            "🌐 Web Development"
         ]
-        self.languages = ["Python", "Java", "SQL", "HTML", "CSS", "JavaScript"]
+        self.languages = ["🐍 Python", "☕ Java", "🧮 SQL", "🖋️ HTML", "🎨 CSS", "📜 JavaScript"]
         self.strengths = [
-            "Leadership", 
-            "Teamwork", 
-            "Communication"
+            "🧑‍🤝‍🧑 Leadership", 
+            "🤝 Teamwork", 
+            "🗣️ Communication"
         ]
 
     def say_hi(self):
-        return "Hello! I'm passionate about learning, building, and solving real-world tech problems. "
-```
+        return "Hello! I'm passionate about learning, building, and solving real-world tech problems. 🚀"
+
 </td>
 </tr>
 </table>

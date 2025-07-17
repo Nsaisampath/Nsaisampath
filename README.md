@@ -56,7 +56,7 @@ class YourProfile:
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,ts,nodejs,react,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=java,python,ts,nodejs,react,mysql,mongodb,postgres" />
   <img src="https://skillicons.dev/icons?i=html,css,js,git,postman" />
 </p>
 

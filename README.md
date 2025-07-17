@@ -61,9 +61,13 @@ class YourProfile:
 <br>
 
 <p align="center">
+💻 <!-- Laptop icon -->
 <img src="https://skillicons.dev/icons?i=ubuntu,windows" />
+
+Ubuntu Windows
 </p>
 <hr>
+
 
 
 ## 🛠 Languages and Tools

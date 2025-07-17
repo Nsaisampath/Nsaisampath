@@ -23,7 +23,7 @@
 ```python
 class YourProfile:
     def _init_(self):
-        self.name = "Your Name"
+        self.name = "Naramsetti Sai Sampath"
         self.role = "Aspiring Software Developer | IT Student"
         self.location = "India 🇮🇳"
         self.education = {

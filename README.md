@@ -2,6 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,6,30&height=250&section=header&text=Naramsetti%20Sai%20Sampath&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Web%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=65&descSize=20" />
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=00ADB5&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Web+Developer;Machine+Learning+Enthusiast;Exploring+New+Technologies;Open+Source+Contributor;Always+Learning+%26+Growing" alt="Typing SVG" />
+</div>
 
 <br>
 

@@ -3,13 +3,19 @@
 </div>
 
 
-
+<br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nsaisampath&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Nsaisampath?style=for-the-badge&color=blue&label=Followers" />
-  <img src="https://img.shields.io/badge/Focus-Web%20Dev-blue?style=for-the-badge" />
+  <a href="saisampathnaramsetty@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/saisampath369" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+
 </div>
+
+<hr>
+
 
 ## 🚀 About Me
 
@@ -61,3 +67,9 @@ class YourProfile:
 </p>
 
 <hr>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nsaisampath&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Nsaisampath?style=for-the-badge&color=blue&label=Followers" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Dev-blue?style=for-the-badge" />
+</div>

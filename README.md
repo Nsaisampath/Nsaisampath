@@ -7,12 +7,7 @@
   <img src="https://img.shields.io/github/followers/Nsaisampath?style=for-the-badge&color=blue&label=Followers" />
   <img src="https://img.shields.io/badge/Focus-Web%20Dev-blue?style=for-the-badge" />
 </div>
-## 🚀 About Me
 
-<div align="center">
-<table>
-<tr>
-<td width="60%">
 ## 🚀 About Me
 
 <div align="center">

@@ -19,8 +19,8 @@
 class YourProfile:
     def _init_(self):
         self.name = "Naramsetti Sai Sampath"
-        self.role = "Aspiring Software Developer | IT Student"
-        self.location = "India 🇮🇳"
+        self.role = "Aspiring Software Developer "
+        self.location = "Visakhapatnam, India 🇮🇳"
         self.education = {
             "Current": "B.Tech in Information Technology @ MVGR College of Engineering",
             "CGPA": 8.41,

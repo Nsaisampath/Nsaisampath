@@ -7,3 +7,42 @@
   <img src="https://img.shields.io/github/followers/Nsaisampath?style=for-the-badge&color=blue&label=Followers" />
   <img src="https://img.shields.io/badge/Focus-Web%20Dev-blue?style=for-the-badge" />
 </div>
+## 🚀 About Me
+
+<div align="center">
+<table>
+<tr>
+<td width="60%">
+## 🚀 About Me
+
+<div align="center">
+<table>
+<tr>
+<td width="60%">
+
+```python
+class YourProfile:
+    def _init_(self):
+        self.name = "Your Name"
+        self.role = "Aspiring Software Developer | IT Student"
+        self.location = "India 🇮🇳"
+        self.education = {
+            "Current": "B.Tech in Information Technology @ MVGR College of Engineering",
+            "CGPA": 8.41,
+            "Intermediate": "Sri Chaitanya College - MPC - 96%",
+            "SSC": "Zilla Parishad High School - 96%"
+        }
+        self.skills = [
+            "Software Development",
+            "Database Management",
+            "Problem Solving"
+        ]
+        self.languages = ["Python", "Java", "SQL", "HTML", "CSS", "JavaScript"]
+        self.strengths = [
+            "Leadership", 
+            "Teamwork", 
+            "Communication"
+        ]
+
+    def say_hi(self):
+        return "Hello! I'm passionate about learning, building, and solving real-world tech problems. 🚀

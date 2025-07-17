@@ -20,7 +20,7 @@
 
 ```python
 class YourProfile:
-    def _init_(self):
+    def init(self):
         self.name = "Naramsetti Sai Sampath"
         self.role = "Aspiring Software Developer "
         self.location = "Visakhapatnam, India 🇮🇳"
@@ -44,14 +44,14 @@ class YourProfile:
         ]
 
     def say_hi(self):
-        return "Hello! I'm passionate about learning, building, and solving real-world tech problems. 🚀"
+        return "Hello! I'm passionate about learning, building, and solving real-world tech problems. "
 '''
 </td>
 </tr>
 </table>
 </div>
 
-## 🛠️ Languages and Tools
+## 🛠 Languages and Tools
 
 <br>
 

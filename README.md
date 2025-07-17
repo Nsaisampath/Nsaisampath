@@ -57,13 +57,22 @@ class YourProfile:
 </table>
 </div>
 
+## 🛠 Operating Systems
+<br>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=ubuntu,windows" />
+</p>
+<hr>
+
+
 ## 🛠 Languages and Tools
 
 <br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,ts,nodejs,react,mysql,mongodb,postgres" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,postman" />
 </p>
 
 <hr>
@@ -78,6 +87,8 @@ class YourProfile:
 </div>
 
 <hr>
+
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Nsaisampath&style=for-the-badge&color=blueviolet" alt="Profile Views" />

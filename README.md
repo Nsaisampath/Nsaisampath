@@ -5,12 +5,14 @@
 
 <br>
 
-<div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Nsaisampath&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="SaiSampath's GitHub Stats" />
-  
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rupatarini&theme=tokyonight&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF" alt="GitHub Streak" />
+<div align="center"> 
+  <a href="mailto:saisampathnaramsetty@gmail.com"> 
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> 
+  </a> 
+  <a href="https://linkedin.com/in/saisampath369" target="_blank"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> 
+</div>
 
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nsaisampath&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="SaiSampath's Most Used Languages" />
 </div>
 
 
@@ -83,7 +85,7 @@ class YourProfile:
 
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Nsaisampath&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="SaiSampath's GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rupatarini&theme=tokyonight&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nsaisampath&theme=tokyonight&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF" alt="GitHub Streak" />
 
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Nsaisampath&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="SaiSampath's Most Used Languages" />
 </div>

@@ -45,7 +45,7 @@ class YourProfile:
 
     def say_hi(self):
         return "Hello! I'm passionate about learning, building, and solving real-world tech problems. "
-'''
+```
 </td>
 </tr>
 </table>

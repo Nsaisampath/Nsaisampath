@@ -57,12 +57,11 @@ class YourProfile:
 </table>
 </div>
 
-## 🛠 Operating Systems
+
 <br>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=ubuntu,windows" />
-</p>
+📟 Operating Systems
+<br> <p align="center"> <img src="https://skillicons.dev/icons?i=windows,ubuntu" /> </p>
 
 <hr>
 

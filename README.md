@@ -29,7 +29,7 @@
 
 
 ```python
-class YourProfile:
+class NaramsettiSaiSampath:
     def __init__(self):
         self.name = "👤 Naramsetti Sai Sampath"
         self.role = "💻 Aspiring Software Developer"

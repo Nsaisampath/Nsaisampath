@@ -14,6 +14,9 @@
   </a> 
   <a href="https://linkedin.com/in/saisampath369" target="_blank"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> 
+     <a href="https://nsaisampath.netlify.app" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
+</a>
 </div>
 
 </div>
